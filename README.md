@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @StormFelcon
+- I'm a student/indie game developer
+- 🌱 I’m currently learning c# for 1.5 years
+- You can reach me on Discord: StormFelcon#4836.
